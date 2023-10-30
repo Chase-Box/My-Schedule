@@ -15,3 +15,42 @@ body{
     border-color: black;
     border-style:solid;
 }
+
+.flex{
+    display: flex;
+    background-color:rgb(147, 147, 222);
+    margin: 100px;
+}
+
+table{
+    font-family: Geneva;
+    width: 100%;
+    vertical-align: center;
+    border: 3px solid black;
+}
+
+table, th, td{
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    
+}
+
+td{
+    text-align: left;
+    font-size: 18px;
+}
+
+.special{
+    font-family:Cochin;
+}
+
+th{
+    font-family:Arial;
+    font-size: 22px;
+    text-align: center;
+}
+
+tr{
+    height: 100%;
+}
+
