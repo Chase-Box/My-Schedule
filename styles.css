@@ -54,3 +54,8 @@ tr{
     height: 100%;
 }
 
+.bold{
+    font-weight: 900;
+    font-family: monospace;
+}
+
