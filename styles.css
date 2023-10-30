@@ -1,0 +1,17 @@
+body{
+    background-color:aqua;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-change-one{
+    font-family:Geneva;
+}
+
+.showline{
+    border-bottom: 2px;
+    border-color: black;
+    border-style:solid;
+}
